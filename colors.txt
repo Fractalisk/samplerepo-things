@@ -1,4 +1,4 @@
-blue
+purple
 red
 white
 hello world
